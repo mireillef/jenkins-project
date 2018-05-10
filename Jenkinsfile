@@ -1,1 +1,1 @@
-@Library('jenkins-shared')
+library 'jenkins shared'
